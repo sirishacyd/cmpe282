@@ -1,8 +1,7 @@
 # cmpe282
 
-I
 
-Use a language model to help your team write a program that does the following:
+### Use a language model to help your team write a program that does the following:
 
 1.Takes a text string as input
 
@@ -13,7 +12,7 @@ Include a link to your source code on github, etc..
 Use any programming language you prefer
 II 
 
-Use a language model to help your team solve HackerRank Links to an external site.coding problems, in the language of your choice
+### Use a language model to help your team solve HackerRank Links to an external site.coding problems, in the language of your choice
 
 1.One of: Easy, Medium, or Hard
 
